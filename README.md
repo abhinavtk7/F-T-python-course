@@ -15,7 +15,16 @@ Welcome to the repository for the Python course by FlaxandTeal. This repository 
 [**M21**](M21_Alchemy_A_Sequel.ipynb) - SQLAlchemy  <br />
 [**M22**](M22_A_Magnum_of_Opera.ipynb) - decorator  <br />
 
-## Usage
+## Getting Started
+To get started with these notebooks, you'll need to clone this repository and install the necessary dependencies. Follow the instructions below to set up your environment.
+
+## Prerequisites
+Ensure you have the following software installed:
+
+- Python 3.x
+- Jupyter Notebook or JupyterLab
+
+## Installation and Usage
 1. Clone the repository:
 ```
 git clone [https://github.com/abhinavtk7/FlaxandTeal-python-course.git]
