@@ -27,7 +27,7 @@ Ensure you have the following software installed:
 ## Installation and Usage
 1. Clone the repository:
 ```
-git clone [https://github.com/abhinavtk7/FlaxandTeal-python-course.git]
+git clone https://github.com/abhinavtk7/FlaxandTeal-python-course.git
 cd FlaxandTeal-python-course
 ```
 2. Launch Jupyter Notebook
@@ -35,4 +35,4 @@ cd FlaxandTeal-python-course
 jupyter notebook
 ```
 3. In the Jupyter interface, navigate to the notebook you want to open and click on it.
-4. Run the cells: Execute the code cells sequentially to follow along with the lessons and examples.
+4. Execute the code cells sequentially to follow along with the lessons and examples.
