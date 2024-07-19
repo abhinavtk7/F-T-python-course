@@ -16,3 +16,11 @@ M21 - SQLAlchemy  <br />
 M22 - decorator  <br />
 
 ## Usage
+1. Clone the repository:
+```
+git clone https://github.com/yourusername/python-course-notebooks.git
+cd python-course-notebooks
+```
+2. Launch Jupyter Notebook
+3. In the Jupyter interface, navigate to the notebook you want to open and click on it.
+4. Run the cells: Execute the code cells sequentially to follow along with the lessons and examples.
