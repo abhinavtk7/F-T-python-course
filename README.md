@@ -1,2 +1,4 @@
-# FlaxandTeal-python-course
-This repo contains jupyter notebooks I have worked on while doing the F&amp;T python course. 
+# Python Course - Flaxandteal
+Welcome to the repository for the Python course Jupyter notebooks. This repository contains all the notebooks used throughout the course, containing hands-on examples and exercises for learning Python.
+
+## Course Outline
