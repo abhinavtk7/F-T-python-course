@@ -1,8 +1,9 @@
 # Python Course - Flaxandteal
-Welcome to the repository for the Python course Jupyter notebooks. This repository contains all the notebooks used throughout the course, containing hands-on examples and exercises for learning Python.
+Welcome to the repository for the Python course by FlaxandTeal. This repository contains all the notebooks used throughout the course, containing hands-on examples and exercises for learning Python.
 
 ## Course Outline
-M2 - Basic Python control structures  <br />
+[**Introduction to Python**](notebooks/introduction_to_python.ipynb)
+[**M2**](M2_Basic_control_structures.ipynb) - Basic Python control structures  <br />
 M4 - Numpy, Matplotlib, Scipy  <br />
 M6 - Setting up VS Code, venv, Time Tracking, Logging  <br />
 M9 - Pandas  <br />
@@ -18,9 +19,12 @@ M22 - decorator  <br />
 ## Usage
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/python-course-notebooks.git
-cd python-course-notebooks
+git clone [https://github.com/abhinavtk7/FlaxandTeal-python-course.git]
+cd FlaxandTeal-python-course
 ```
 2. Launch Jupyter Notebook
+```
+jupyter notebook
+```
 3. In the Jupyter interface, navigate to the notebook you want to open and click on it.
 4. Run the cells: Execute the code cells sequentially to follow along with the lessons and examples.
