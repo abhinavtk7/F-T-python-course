@@ -1,5 +1,5 @@
 # Python Course - Flaxandteal
-Welcome to the repository for the Python course by FlaxandTeal. This repository contains all the notebooks used throughout the course, containing hands-on examples and exercises for learning Python.
+Welcome to the repository of the Python course by FlaxandTeal. This repository contains all the notebooks used throughout the course, containing hands-on examples and exercises for learning Python.
 
 ## Course Outline
 [**M2**](M2_Basic_control_structures.ipynb) - Basic Python control structures  <br />
